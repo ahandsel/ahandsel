@@ -18,11 +18,11 @@
   * [Parasite](https://www.netflix.com/us/title/81221938)
   * [Erased](https://www.netflix.com/us/title/80114225)
   * [Tokyo Godfathers](https://www.netflix.com/us/title/60034521)
-  * [Watch A Silent Voice](https://www.netflix.com/jp-en/title/80223226)
-  * [Watch The Boy and the Beast](https://www.netflix.com/jp-en/title/80063800)
-  * [Watch Summer Wars](https://www.netflix.com/jp-en/title/70134425)
-  * [Watch Mirai](https://www.netflix.com/jp-en/title/81004268)
-  * [Watch Flavors of Youth: International Version](https://www.netflix.com/jp-en/title/80234491)
+  * [A Silent Voice](https://www.netflix.com/jp-en/title/80223226)
+  * [The Boy and the Beast](https://www.netflix.com/jp-en/title/80063800)
+  * [Summer Wars](https://www.netflix.com/jp-en/title/70134425)
+  * [Mirai](https://www.netflix.com/jp-en/title/81004268)
+  * [Flavors of Youth: International Version](https://www.netflix.com/jp-en/title/80234491)
 
 ### English Drama
   * [The Queen's Gambit](https://www.netflix.com/us/title/80234304)
