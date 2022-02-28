@@ -14,28 +14,28 @@
 ## Netflix List
 
 ### Anime
-  * [Aggretsuko](https://www.netflix.com/us/title/80198505)
-  * [Parasite](https://www.netflix.com/us/title/81221938)
-  * [Erased](https://www.netflix.com/us/title/80114225)
-  * [Tokyo Godfathers](https://www.netflix.com/us/title/60034521)
-  * [A Silent Voice](https://www.netflix.com/jp-en/title/80223226)
-  * [The Boy and the Beast](https://www.netflix.com/jp-en/title/80063800)
-  * [Summer Wars](https://www.netflix.com/jp-en/title/70134425)
-  * [Mirai](https://www.netflix.com/jp-en/title/81004268)
-  * [Flavors of Youth: International Version](https://www.netflix.com/jp-en/title/80234491)
+  * [Aggretsuko](https://www.netflix.com/title/80198505)
+  * [Parasite](https://www.netflix.com/title/81221938)
+  * [Erased](https://www.netflix.com/title/80114225)
+  * [Tokyo Godfathers](https://www.netflix.com/title/60034521)
+  * [A Silent Voice](https://www.netflix.com/title/80223226)
+  * [The Boy and the Beast](https://www.netflix.com/title/80063800)
+  * [Summer Wars](https://www.netflix.com/title/70134425)
+  * [Mirai](https://www.netflix.com/title/81004268)
+  * [Flavors of Youth: International Version](https://www.netflix.com/title/80234491)
 
 ### English Drama
-  * [The Queen's Gambit](https://www.netflix.com/us/title/80234304)
-  * [Breaking Bad](https://www.netflix.com/us/title/70143836)
-  * [Crazy, Stupid, Love.](https://www.netflix.com/us/title/70167068)
+  * [The Queen's Gambit](https://www.netflix.com/title/80234304)
+  * [Breaking Bad](https://www.netflix.com/title/70143836)
+  * [Crazy, Stupid, Love.](https://www.netflix.com/title/70167068)
 
 ### Asian Drama
-  * [Midnight Diner: Tokyo Stories](https://www.netflix.com/us/title/80113037)
-  * [Sherlock](https://www.netflix.com/us/title/70202589)
+  * [Midnight Diner: Tokyo Stories](https://www.netflix.com/title/80113037)
+  * [Sherlock](https://www.netflix.com/title/70202589)
 
 ### Economics / Crime
-  * [The Laundromat](https://www.netflix.com/us/title/80994011)
-  * [The Social Network](https://www.netflix.com/us/title/70132721)
+  * [The Laundromat](https://www.netflix.com/title/80994011)
+  * [The Social Network](https://www.netflix.com/title/70132721)
 
 ## Amazon Prime List
 
