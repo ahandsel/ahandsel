@@ -1,5 +1,5 @@
 # Meow 🐱
-I am a developer advocate for the [Kintone Developer Program](https://kintone.dev/)  
+I am a developer advocate and UX writer for [Kintone](https://kintone.dev/) and [Cybozu](https://cybozu.co.jp/en/company/)
 
 🗼   Californian transplant in Tokyo  
 ⚙️   Really into JavaScript & [Markdown Slides](https://github.com/ahandsel/talks)  
@@ -10,10 +10,13 @@ I am a developer advocate for the [Kintone Developer Program](https://kintone.de
 
 ## Learning
 
-![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+## Personal projects
+
+[Tokyo Geek | Collection of my random notes about Japan](https://ahandsel.github.io/tokyo-geek/)
+
+[Tokyo Hiker 🥾 | Tokyo Hiker 🥾](https://ahandsel.github.io/Tokyo_Hiker/)
 
 ## Output
 
