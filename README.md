@@ -16,7 +16,7 @@ I am a developer advocate and UX writer for [Kintone](https://kintone.dev/) and 
 
 [Tokyo Geek | Collection of my random notes about Japan](https://ahandsel.github.io/tokyo-geek/)
 
-[Tokyo Hiker 🥾 | Tokyo Hiker 🥾](https://ahandsel.github.io/Tokyo_Hiker/)
+[Tokyo Hiker 🥾 | Tokyo Hiker 🥾](https://ahandsel.github.io/tokyo-hiker/)
 
 ## Output
 
