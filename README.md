@@ -25,10 +25,3 @@ I am a developer advocate and UX writer for [Kintone](https://kintone.dev/) and 
 [![Dev.to](https://img.shields.io/badge/Dev.To%20@ahandsel-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ahandsel)
 
 [![Medium Badge](https://img.shields.io/badge/ahandsel-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/ahandsel)](https://medium.com/ahandsel)
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahandsel&show_icons=true&locale=en&layout=compact&theme=gruvbox" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ahandsel&hide=issues&theme=gruvbox" />
-</p>
